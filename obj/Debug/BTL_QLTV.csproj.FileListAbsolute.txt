@@ -1,0 +1,11 @@
+E:\c#\BTL_QLTV\bin\Debug\BTL_QLTV.exe.config
+E:\c#\BTL_QLTV\bin\Debug\BTL_QLTV.exe
+E:\c#\BTL_QLTV\bin\Debug\BTL_QLTV.pdb
+E:\c#\BTL_QLTV\obj\Debug\BTL_QLTV.csproj.AssemblyReference.cache
+E:\c#\BTL_QLTV\obj\Debug\BTL_QLTV.csproj.SuggestedBindingRedirects.cache
+E:\c#\BTL_QLTV\obj\Debug\BTL_QLTV.Form1.resources
+E:\c#\BTL_QLTV\obj\Debug\BTL_QLTV.Properties.Resources.resources
+E:\c#\BTL_QLTV\obj\Debug\BTL_QLTV.csproj.GenerateResource.cache
+E:\c#\BTL_QLTV\obj\Debug\BTL_QLTV.csproj.CoreCompileInputs.cache
+E:\c#\BTL_QLTV\obj\Debug\BTL_QLTV.exe
+E:\c#\BTL_QLTV\obj\Debug\BTL_QLTV.pdb
